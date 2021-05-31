@@ -1,0 +1,12 @@
+C:\dev\Itapeva\Itapeva.Servico\obj\Debug\net5.0\Itapeva.Servico.csproj.AssemblyReference.cache
+C:\dev\Itapeva\Itapeva.Servico\obj\Debug\net5.0\Itapeva.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Itapeva\Itapeva.Servico\obj\Debug\net5.0\Itapeva.Servico.AssemblyInfoInputs.cache
+C:\dev\Itapeva\Itapeva.Servico\obj\Debug\net5.0\Itapeva.Servico.AssemblyInfo.cs
+C:\dev\Itapeva\Itapeva.Servico\obj\Debug\net5.0\Itapeva.Servico.csproj.CoreCompileInputs.cache
+C:\dev\Itapeva\Itapeva.Servico\bin\Debug\net5.0\Itapeva.Servico.deps.json
+C:\dev\Itapeva\Itapeva.Servico\bin\Debug\net5.0\Itapeva.Servico.dll
+C:\dev\Itapeva\Itapeva.Servico\bin\Debug\net5.0\ref\Itapeva.Servico.dll
+C:\dev\Itapeva\Itapeva.Servico\bin\Debug\net5.0\Itapeva.Servico.pdb
+C:\dev\Itapeva\Itapeva.Servico\obj\Debug\net5.0\Itapeva.Servico.dll
+C:\dev\Itapeva\Itapeva.Servico\obj\Debug\net5.0\ref\Itapeva.Servico.dll
+C:\dev\Itapeva\Itapeva.Servico\obj\Debug\net5.0\Itapeva.Servico.pdb
